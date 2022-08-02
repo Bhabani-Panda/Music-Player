@@ -6,4 +6,4 @@ Packages installed using pip -
 - tkinter
 - pygame
 - mutagen
--- ttkthemes
+- ttkthemes
